@@ -5,8 +5,8 @@
 ## Galvenās funkcijas
   - Apkopot informāciju 
   - Ievadīt tekstu 
-	- Apstrādāt datus
-	- Izvadīt rezultātu
+  - Apstrādāt datus
+  - Izvadīt rezultātu
 ## Izmantotās tehnoloģijas
 	- C++
 	- SFML library 
